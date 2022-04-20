@@ -1,0 +1,18 @@
+.primaryButton {
+  background: rgb(252, 93, 115);
+  background: linear-gradient(
+    121deg,
+    rgba(252, 93, 115, 1) 10%,
+    rgba(255, 153, 63, 1) 100%,
+    rgba(255, 254, 252, 1) 100%,
+    rgba(255, 254, 250, 0.01193981010372902) 100%
+  );
+  border-radius: 1rem;
+  padding: 0.5rem 1rem;
+  color: #fff;
+  font-family: "Comfortaa", cursive;
+  font-weight: 500;
+  font-size: 1.5rem;
+  border: transparent;
+  cursor: pointer;
+}
