@@ -1,3 +1,8 @@
+# About Project
+- I have made this for desktop screen for now.
+- If you click on history button then you can see the strength card 
+- I have used only Reac js I have not used any external library for styling.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
