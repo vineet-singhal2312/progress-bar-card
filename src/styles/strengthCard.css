@@ -12,7 +12,7 @@
   );
   border-radius: 1rem;
   top: 8rem;
-  left: 44.5rem;
+  left: 43.5rem;
 }
 .card::after {
   display: inline-block;
